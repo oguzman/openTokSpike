@@ -26,7 +26,7 @@ static NSString* const kApiKey = @"45447182";
 // Replace with your generated session ID
 static NSString* const kSessionId = @"2_MX40NTQ0NzE4Mn5-MTQ1MDg4Njc0MjAwNH4zVGNTTnljSDN2ejU4RFBEVE9taUV5Ynh-UH4";
 // Replace with your generated token
-static NSString* const kToken = @"T1==cGFydG5lcl9pZD00NTQ0NzE4MiZzaWc9NzY4YTNhM2E2YjMxMTdkZDM1MjI0Y2ZlYzAyYzUxYzIxYmQwNjE2Mzpyb2xlPXB1Ymxpc2hlciZzZXNzaW9uX2lkPTJfTVg0ME5UUTBOekU0TW41LU1UUTFNRGc0TmpjME1qQXdOSDR6VkdOVFRubGpTRE4yZWpVNFJGQkVWRTl0YVVWNVluaC1VSDQmY3JlYXRlX3RpbWU9MTQ1MDg4OTMyOCZub25jZT0wLjMzNDI3MTc5MTA1NDU4ODI2JmV4cGlyZV90aW1lPTE0NTA5NzU3Mjg=";
+static NSString* const kToken = @"T1==cGFydG5lcl9pZD00NTQ0NzE4MiZzaWc9NDJmYjZmYjk4YzU3YTkyMWFlMTdhNjgxNmQ4NmYxNTcyNjU1NDM3Yjpyb2xlPXB1Ymxpc2hlciZzZXNzaW9uX2lkPTJfTVg0ME5UUTBOekU0TW41LU1UUTFNRGc0TmpjME1qQXdOSDR6VkdOVFRubGpTRE4yZWpVNFJGQkVWRTl0YVVWNVluaC1VSDQmY3JlYXRlX3RpbWU9MTQ1MDk3NjUwNSZub25jZT0wLjc0ODUwNDY5MzQ1ODg3ODYmZXhwaXJlX3RpbWU9MTQ1MTA2MjkwNQ==";
 
 // Change to NO to subscribe to streams other than your own.
 static bool subscribeToSelf = NO;
