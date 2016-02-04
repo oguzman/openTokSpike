@@ -22,11 +22,11 @@
 // *** Fill the following variables using your own Project info  ***
 // ***          https://dashboard.tokbox.com/projects            ***
 // Replace with your OpenTok API key
-static NSString* const kApiKey = @"45447182";
+static NSString* const kApiKey = @"45485152";
 // Replace with your generated session ID
-static NSString* const kSessionId = @"2_MX40NTQ0NzE4Mn5-MTQ1MDg4Njc0MjAwNH4zVGNTTnljSDN2ejU4RFBEVE9taUV5Ynh-UH4";
+static NSString* const kSessionId = @"1_MX40NTQ4NTE1Mn5-MTQ1NDU0NDU4NDQwMn45Y3ZuU0h1ZHN4L0RYd0NTcXFpRmYrK1R-UH4";
 // Replace with your generated token
-static NSString* const kToken = @"T1==cGFydG5lcl9pZD00NTQ0NzE4MiZzaWc9NDJmYjZmYjk4YzU3YTkyMWFlMTdhNjgxNmQ4NmYxNTcyNjU1NDM3Yjpyb2xlPXB1Ymxpc2hlciZzZXNzaW9uX2lkPTJfTVg0ME5UUTBOekU0TW41LU1UUTFNRGc0TmpjME1qQXdOSDR6VkdOVFRubGpTRE4yZWpVNFJGQkVWRTl0YVVWNVluaC1VSDQmY3JlYXRlX3RpbWU9MTQ1MDk3NjUwNSZub25jZT0wLjc0ODUwNDY5MzQ1ODg3ODYmZXhwaXJlX3RpbWU9MTQ1MTA2MjkwNQ==";
+static NSString* const kToken = @"T1==cGFydG5lcl9pZD00NTQ4NTE1MiZzaWc9NjFjNzZiZDliMDFhZmRkOGRjY2M0YTgyYWEzODVlNzEwMDM0ZjdmNzpyb2xlPXB1Ymxpc2hlciZzZXNzaW9uX2lkPTFfTVg0ME5UUTROVEUxTW41LU1UUTFORFUwTkRVNE5EUXdNbjQ1WTNadVUwaDFaSE40TDBSWWQwTlRjWEZwUm1ZcksxUi1VSDQmY3JlYXRlX3RpbWU9MTQ1NDU0NTY1NiZub25jZT0wLjczMzAwMjg1NTExODcwNjgmZXhwaXJlX3RpbWU9MTQ1NDYzMjA1Ng==";
 
 // Change to NO to subscribe to streams other than your own.
 static bool subscribeToSelf = NO;
